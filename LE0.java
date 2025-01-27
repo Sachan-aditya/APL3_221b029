@@ -1,4 +1,4 @@
-public class Main {
+public class Leo {
     private String name;
     private int speed;
 
